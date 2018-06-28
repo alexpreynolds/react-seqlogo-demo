@@ -1,2 +1,2 @@
-# seqlogo
-Sequence logo generation with d3
+# react-seqlogo
+Sequence logo generation with d3 and React
