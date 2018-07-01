@@ -2,13 +2,12 @@ import React from 'react';
 import SplitPane from 'react-split-pane';
 import Textarea from 'react-textarea-autosize';
 import Select from 'react-select';
+import SequenceLogo from 'react-seqlogo';
 import 'react-select/dist/react-select.css';
 
 import logo from './logo.svg';
 import './App.css';
 import { Constants } from './Constants';
-
-import SequenceLogo from './SequenceLogo';
 
 class App extends React.Component {
   

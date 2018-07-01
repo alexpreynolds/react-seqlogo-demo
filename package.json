@@ -1,5 +1,5 @@
 {
-  "name": "react-seqlogo",
+  "name": "react-seqlogo-demo",
   "version": "1.0.0",
   "description": "Sequence logo generation with d3 and React",
   "main": "index.js",
@@ -32,7 +32,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "react-hot-loader": "^4.3.3",
-    "webpack": "^4.13.0",
+    "webpack": "^4.14.0",
     "webpack-cli": "^3.0.8",
     "webpack-dev-server": "^3.1.4"
   },
@@ -42,6 +42,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-select": "^1.2.1",
+    "react-seqlogo": "0.0.5",
     "react-split-pane": "^0.1.77",
     "react-textarea-autosize": "^6.1.0",
     "style-loader": "^0.21.0",
