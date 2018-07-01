@@ -1,2 +1,2 @@
-# react-seqlogo
-Sequence logo generation with d3 and React
+# react-seqlogo-demo
+Demonstration of sequence logo generation with d3 v5 and React
