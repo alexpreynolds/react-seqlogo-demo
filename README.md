@@ -1,5 +1,7 @@
 # react-seqlogo-demo
 
+**Note: This demo has been integrated into the [`react-seqlogo`](https://www.npmjs.com/package/react-seqlogo) project. No further updates to this project will occur.**
+
 This package demonstrates the use of the [`react-seqlogo`](https://www.npmjs.com/package/react-seqlogo) component, which renders sequence logos in a React application.
 
 ## Demo
